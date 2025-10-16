@@ -12,8 +12,7 @@ class Phonebook
     public:
         void addContact(Contact c);
         void displayContacts();
-        void displayCindex(int i);
-        
+        void displayCindex(int i);    
 };
 
 #endif
