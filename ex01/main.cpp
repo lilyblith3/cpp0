@@ -3,6 +3,7 @@
 #include <iostream>
 #include <string>
 
+// constructor khdmto -> initialize objects of that class when they r created 
 int main()
 {
     Phonebook phonebook;

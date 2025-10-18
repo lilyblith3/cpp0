@@ -2,7 +2,7 @@
 #include <iostream>  
 #include <iomanip>
 
-//=========================thing I will learn later======================================//
+//===============================================================//
 //scope resolution operator :: it tells the compiler look inside this class or namespace It connects a function or variable to its class or namespace.
 /*
 1- std
